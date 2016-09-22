@@ -1,0 +1,253 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+ Languages available:
+ >> ENGLISH (in first place)
+ >> ESPAÑOL (vea más adelante)
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                          ZOMBIE NEAR user's manual
+
+                             A freeware MSX game.
+                      (c) Copyright 2011 Óscar Toledo G.
+                             All rights reserved.
+
+                         http://nanochess.110mb.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided 'as-is', without any express or implied
+  warranty. In no event will the author be held liable for any damages
+  or loss arising from the use of this software.
+
+  It is prohibited to modify, decompile, disassemble or reverse engineer
+  this software.
+
+  All trademarks are property of their respective owners.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUIREMENTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Hardware:
+
+  o A MSX-compatible computer (MSX, MSX2, MSX2+ or MSX Turbo-R)
+  o 8K of base RAM
+  o 16K of VRAM
+
+  Also can be used with an emulator:
+
+  o BlueMSX v2.8.2, available at http://www.bluemsx.com/
+  o Meisei v1.3.2, available at http://tsk-tsk.net/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  There are rumors about zombie bosses waiting to crush you!
+
+  In one-player mode you can use cursor keys and SPACE to shoot, or use
+  joystick 1, both buttons shoot.
+
+  In two-players mode, player 1 controls are with cursor keys and SPACE to
+  shoot, and player 2 controls are with joystick 1, both buttons shoot,
+  player 2 also can use WASD-keys combination for movement plus Tab for
+  shooting.
+
+  Keys in title screen:
+    F1 - Change language (English and Spanish available)
+
+  Keys while game runs:
+    F1 - Pause, press again to get out from pause
+    F2 - Toggle sound/music.
+
+  Wait while title screen appears to see the starting story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  DISTRIBUTION
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR is freeware and can be distributed freely as long as:
+
+    o It is not modified
+    o This file is included in the archive
+    o It is not part of a commercial product
+
+  For other types of distribution please contact me through my site
+  http://nanochess.110mb.com/
+
+  I have one special requirement for cartridges: if you make a batch of
+  cartridges with this game, please send me two cartridges and also one
+  dollar per manufactured cartridge, in other words if you make 1,000
+  cartridges you should send me USD$1000 :), I think it is a fair way of
+  rewarding my hard work if you do business based on it.
+
+  Do you want to have source code for this game?, I can release it in my site
+  if someone collects a nice sum to pay for it, I'm open to offers. It is
+  composed of more than 13,500 lines of assembly source code commented in
+  Spanish, the pack contains 36 files (24 data files and 12 assembler
+  modules) that can be assembled by tniASM v0.44 to create a fully working
+  ROM, the pack does NOT INCLUDE utilities for generation of the compressed
+  data files NOR the uncompressed graphics. The license allows free reuse
+  without royalties but requires mention of original author in documentation
+  and inside the program.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  ANIMATION:
+  PROGRAMMING:
+  GRAPHICS AND LEVEL DESIGN:
+  SOUND AND MUSIC:
+  COVER DESIGN:
+  MANUAL DESIGN:
+    Óscar Toledo G.
+
+  SPECIAL HELP FROM:
+    Adán Toledo G. (Main music and plant drawing)
+
+  BETA TESTERS:
+    Óscar Toledo G.
+    Adán Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Jan/21/2011
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                        ZOMBIE NEAR: manual del usuario
+
+                             Un juego MSX freeware
+                      (c) Copyright Óscar Toledo G. 2011
+                         Todos los derechos reservados.
+
+                         http://nanochess.110mb.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENCIA
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Este software es proporcionado 'tal cual', sin ninguna garantía
+  expresa o implicada. En ningún caso el autor será responsable de
+  daños o perdidas que puedan ocurrir por el uso de este software.
+
+  Se prohibe modificar, decompilar, desensamblar e ingeniería en
+  reversa, de este software.
+
+  Todas las marcas mencionadas pertenecen a sus respectivos propietarios.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUISITOS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Hardware:
+
+  o Una computadora compatible con MSX (MSX, MSX2, MSX2+ or MSX Turbo-R)
+  o 8K de RAM base
+  o 16K de VRAM
+
+  También puede ser utilizado con un emulador:
+
+  o BlueMSX v2.8.2, disponible en http://www.bluemsx.com/
+  o Meisei v1.3.2, disponible en http://tsk-tsk.net/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  EL JUEGO
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Bienvenido a ZOMBIE NEAR, lucha por tu vida dentro de laboratorios
+  repletos de zombies deseosos de masticar tus huesos, tienes municiones
+  ilimitadas para tu pistola.
+
+  Encuentra las llaves para abrir el acceso a otros pisos del laboratorio,
+  toma paquetes de vida para recuperar tu energía y salva algunos
+  científicos para obtener puntos extra.
+
+  Hay rumores acerca de jefes zombie ¡que están esperando para destrozarte!
+
+  En el modo de un jugador se pueden utilizar las teclas del cursor y ESPACIO
+  para disparar, o utilizar el joystick 1, ambos botones disparan.
+
+  En el modo de dos jugadores, el jugador 1 se controla con las teclas del
+  cursor y ESPACIO para disparar, y el jugador 2 se controla con el
+  joystick 1, ambos botones disparan, el jugador 2 también puede utilizar
+  las teclas WASD para moverse y Tab para disparar.
+
+  Teclas en pantalla de título:
+    F1 - Cambio de idioma (se dispone de inglés y español)
+
+  Teclas dentro del juego:
+    F1 - Pausa, oprima de nuevo para salir de la pausa.
+    F2 - Activa y desactiva sonido y música.
+
+  Espere mientras aparece la pantalla del título para ver la historia
+  inicial.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  DISTRIBUCIÓN
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR es freeware y puede ser distribuido libremente siempre que:
+
+    o No sea modificado
+    o Este archivo se incluya en el paquete
+    o No sea parte de un producto comercial.
+
+  Para otros tipos de distribución por favor contácteme a través de mi sitio
+  http://nanochess.110mb.com/
+
+  Tengo un requisito especial para cartuchos: si usted fabrica un lote de
+  cartuchos con este juego, por favor envieme dos cartuchos y también un
+  dólar por cartucho fabricado, en otras palabras si usted fabrica
+  1,000 cartuchos debe enviarme USD$1000 :), pienso que es una forma justa
+  de recompensar mi duro trabajo si usted hace negocio basado en éste.
+
+  ¿Le gustaría tener el código fuente de este juego?, puedo liberarlo en mi
+  sitio si alguien recolecta una bonita suma para pagarlo, estoy abierto a
+  ofertas. Se compone de más de 13,500 líneas de código fuente ensamblador
+  comentadas en español, el paquete contiene 36 archivos (24 archivos de
+  datos y 12 módulos ensamblador) que pueden ser ensamblados por tniASM v0.44
+  para crear un ROM funcional, el paquete NO INCLUYE las utilidades para
+  generar los archivos de datos comprimidos NI los gráficos sin comprimir.
+  La licencia permite uso libre sin royalties pero requiere mención del
+  autor original en la documentación y dentro del programa.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITOS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  CONCEPTO DEL JUEGO:
+  HISTORIA Y PERSONAJES:
+  ANIMACIÓN:
+  PROGRAMACIÓN:
+  GRÁFICOS Y DISEÑO DE NIVELES:
+  SONIDO Y MÚSICA:
+  DISEÑO DE CUBIERTA:
+  DISEÑO DE MANUAL:
+    Óscar Toledo G.
+
+  AYUDA ESPECIAL DE:
+    Adán Toledo G. (Música principal y dibujo de planta)
+
+  PROBADORES BETA:
+    Óscar Toledo G.
+    Adán Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Última actualización: 21-ene-2011
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

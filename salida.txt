@@ -1,0 +1,371 @@
+Messages and dialogs for Zombie Near
+(c) Copyright 2011 Oscar Toledo G.
+
+
+    English                        Spanish
+
+Delta 1
+
+    |IT WAS SO|                    |­FUE TAN |
+    |EASY!    |                    |FACIL!   |
+
+Delta 2
+
+    |NO ZOMBIE CAN |               |­NINGUN ZOMBIE|
+    |DEFEAT ME!    |               |PUEDE GANARME!|
+
+Telephone girl
+
+    |WELL DONE!  |                 |­BIEN HECHO!|
+    |SCIENTISTS  |                 |CIENTIFICOS |
+    |RESCUED- #$ |                 |HALLADOS-#$ |
+
+Delta 1
+
+    |I'M DOING MY |                |HAGO MI MEJOR|
+    |BEST         |                |ESFUERZO     |
+
+Delta 2
+
+    |I LIKE TO   |                 |ME GUSTA    |
+    |SAVE PEOPLE |                 |SALVAR GENTE|
+
+Delta 1
+
+    |I DIDN'T SAW|                 |¨ACASO HABIA|
+    |PEOPLE      |                 |ALGUIEN?    |
+
+Delta 2
+
+    |IT IS SO SAD |                |ES TAN TRISTE|
+
+Telephone girl
+
+    |WAIT! I'M|                    |­MOMENTO!|
+    |RECEIVING|                    |RECIBO   |
+    |SOMETHING|                    |ALGO     |
+
+Researcher
+
+    |PLEASE HELP|                  |­AYUDA POR |
+    |ME! I'M    |                  |FAVOR! ME  |
+    |SURROUNDED |                  |HAN RODEADO|
+
+Delta 1
+
+    |I COME TO |                   |HE VENIDO |
+    |SAVE YOU  |                   |A SALVARTE|
+
+Delta 2
+
+    |I'M HERE TO|                  |ESTOY AQUI |
+    |RESCUE YOU |                  |PARA       |
+                                   |RESCATARTE |
+
+Researcher
+
+    |YOU'RE TOO  |                 |LLEGAS MUY  |
+    |LATE        |                 |TARDE       |
+    |I'M INFECTED|                 |ME INFECTE  |
+
+Delta 1
+
+    |INFECTED?  |                  |¨INFECTADA?|
+    |HOW?       |                  |¨COMO PASO?|
+
+Delta 2
+
+    |WHAT ARE YOU|                 |¨QUE ESTAS  |
+    |SAYING?     |                 |DICIENDO?   |
+
+Researcher
+
+    |AARGH! HELP!|                 |­AARGH!     |
+    |GRR!        |                 |­AYUDA!     |
+                                   |­GRR!       |
+
+Delta 1
+
+    |POOR GIRL!  |                 |­POBRECILLA!|
+    |SHE WAS CUTE|                 |ERA BONITA  |
+
+Delta 2
+
+    |I COULDN'T|                   |NO PUDE   |
+    |SAVE HER  |                   |SALVARLA  |
+
+Telephone girl
+
+    |SCIENTISTS |                  |CIENTIFICOS|
+    |RESCUED-#$ |                  |HALLADOS-#$|
+    |GOOD WORK! |                  |­MUY BIEN! |
+
+Delta 1
+
+    |I'M THE|                      |­SOY EL|
+    |BEST!  |                      |MEJOR! |
+
+Delta 2
+
+    |I'M        |                  |­SOY       |
+    |UNBEATABLE!|                  |INVENCIBLE!|
+
+Delta 1
+
+    |WHAT        |                 |¨CUALES     |
+    |SCIENTISTS? |                 |CIENTIFICOS?|
+
+Delta 2
+
+    |THERE ARE   |                 |¨HAY        |
+    |SCIENTISTS? |                 |CIENTIFICOS?|
+
+Telephone girl
+
+    |THERE IS      |               |HAY OTRA      |
+    |ANOTHER SIGNAL|               |FRAGIL SE¥AL  |
+
+Boss
+
+    |HELP ME! I'M|                 |­AYUDENME!  |
+    |HIDDEN BUT  |                 |ESTOY OCULTO|
+    |SOMETHING   |                 |PERO ­ALGO  |
+    |FOLLOWS ME! |                 |ME SIGUE!   |
+
+Delta 1
+
+    |YOU'RE HERE|                  |ESTAS AQUI |
+    |GREAT!     |                  |­GRANDIOSO!|
+
+Delta 2
+
+    |APPEARS THAT|                 |LLEGUE A    |
+    |I'M ON TIME |                 |TIEMPO PARA |
+    |TO SAVE YOU |                 |SALVARTE    |
+
+Boss
+
+    |SO YOU FOUGHT|                |PELEASTE MUY |
+    |YOUR WAY     |                |BIEN         |
+
+Delta 1
+
+    |EXCUSE ME?|                   |¨PERDON?  |
+
+Delta 2
+
+    |IT IS MY WORK|                |ES MI TRABAJO|
+
+Boss
+
+    |I WASN'T GOING|               |NO PENSABA    |
+    |TO SHOW MY    |               |MOSTRAR MIS   |
+    |POWERS        |               |PODERES       |
+
+Delta 1
+
+    |WAIT! ARE YOU|                |­ESPERA! ¨TU |
+    |THE BAD GUY? |                |ERES EL MALO?|
+
+Delta 2
+
+    |DO YOU HURT   |               |¨TU LASTIMASTE|
+    |EVERYBODY?    |               |A LA GENTE?   |
+
+Evil boss
+
+    |DO YOU WANT  |                |¨QUIERES     |
+    |TO SEE       |                |VER ALGO     |
+    |SOMETHING    |                |REALMENTE    |
+    |REALLY SCARY?|                |ESPANTOSO?   |
+
+Delta 1
+
+    |WHAT A NASTY|                 |­QUE ZOMBIE |
+    |ZOMBIE!     |                 |MAS PODRIDO!|
+
+Delta 2
+
+    |SO MANY HARMED|               |­TANTOS       |
+    |INNOCENTS!    |               |INOCENTES     |
+                                   |LASTIMADOS!   |
+
+Telephone girl
+
+    |MISSION    |                  |­MISION    |
+    |COMPLETE!  |                  |COMPLETA!  |
+    |SCIENTISTS |                  |CIENTIFICOS|
+    |RESCUED-#$ |                  |HALLADOS-#$|
+
+Delta 1
+
+    |I DESERVE  |                  |MEREZCO UNA|
+    |A MEDAL    |                  |MEDALLA    |
+
+Delta 2
+
+    |I'M PROUD OF|                 |­ME SIENTO  |
+    |MYSELF!     |                 |ORGULLOSA!  |
+
+Delta 1
+
+    |I DIDN'T SAW|                 |NO VI A     |
+    |ANYBODY     |                 |NADIE       |
+
+Delta 2
+
+    |PEOPLE?|                      |¨GENTE?|
+    |WHERE? |                      |¨DONDE?|
+
+Telephone girl
+
+    |THE SENSORS |                 |LOS SENSORES|
+    |LOCATED A   |                 |HALLARON UN |
+    |HIDDEN FLOOR|                 |PISO OCULTO |
+
+Delta 1
+
+    |I CAN'T WAIT  |               |­BIEN! ACABARE|
+    |TO KILL SOME  |               |CON MAS       |
+    |MORE ZOMBIES  |               |ZOMBIES       |
+
+Delta 2
+
+    |WHY ZOMBIES |                 |LOS ZOMBIES |
+    |DON'T JUST  |                 |DEBERIAN    |
+    |DROP DEAD?  |                 |MORIRSE Y YA|
+
+Delta 1
+
+    |WHAT IS THIS?|                |¨QUE ES ESTO?|
+
+Delta 2
+
+    |AGAIN YOU!   |                |­OTRA VEZ TU!|
+
+Boss
+
+    |I'M BACK TO|                  |HE VUELTO  |
+    |CRUSH YOU  |                  |PARA       |
+                                   |ANIQUILARTE|
+
+Delta 1
+
+    |I'LL MAKE SURE|               |ME ASEGURARE  |
+    |TO GET YOU    |               |DE REGRESARTE |
+    |BACK TO HELL  |               |AL AVERNO     |
+
+Delta 2
+
+    |THIS TIME   |                 |ESTA VEZ    |
+    |YOU WILL NOT|                 |NO VOLVERAS |
+    |GET BACK    |
+
+Evil boss
+
+    |YOU WILL BE |                 |­SERAS UNO  |
+    |A ZOMBIE!   |                 |DE NOSOTROS!|
+
+Delta 1
+
+    |ANOTHER DAY   |               |OTRO DIA Y    |
+    |ANOTHER ZOMBIE|               |OTRO ZOMBIE   |
+
+Delta 2
+
+    |WHAT A UGLY|                  |­QUE ZOMBIE|
+    |ZOMBIE     |                  |TAN FEO!   |
+
+Telephone girl
+
+    |THAT IS ALL! |                |­ESO ES TODO!|
+    |SCIENTISTS   |                |CIENTIFICOS  |
+    |RESCUED-#$   |                |HALLADOS-#$  |
+
+Delta 1
+
+    |TIME FOR MY  |                |HORA DE MI   |
+    |VICTORY DANCE|                |BAILE DE LA  |
+                                   |VICTORIA     |
+
+Delta 2
+
+    |I'M TIRED    |                |ESTOY AGOTADA|
+
+Delta 1
+
+    |ARE YOU  |                    |¨BROMEAS?|
+    |KIDDING? |
+
+Delta 2
+
+    |NO TIME FOR  |                |NO HUBO      |
+    |SAVING PEOPLE|                |TIEMPO       |
+
+Telephone girl
+
+    |I'VE SENT YOU|                |TE MANDE UN  |
+    |A HELICOPTER |                |HELICOPTERO  |
+
+Delta 1
+
+    |I'LL BE ON|                   |ESTARE A  |
+    |TIME TO   |                   |TIEMPO    |
+    |WATCH TV! |                   |­PARA VER |
+                                   |TV!       |
+
+Delta 2
+
+    |I'VE TO FEED|                 |TENGO QUE   |
+    |MY CATS     |                 |ALIMENTAR A |
+                                   |MIS GATITOS |
+
+Story
+
+THERE IS A                     HAY UNA
+SECURITY                       BRECHA DE
+BREACH                         SEGURIDAD
+
+
+CLOSE DOWN                     CIERRE LAS
+THE GATES                      PUERTAS
+
+
+THEM'RE THROUGH                ­SE DISPERSARON
+THE BUILDING!                  POR EL
+                               EDIFICIO!
+
+
+CALL SPECIAL                   LLAME AL
+TEAM NOW!                      EQUIPO
+                               TACTICO
+
+
+WHAT'S THAT?                   ¨QUE ES ESO?
+
+
+ OH MY GOD!                    ­SANTO CIELO!
+
+
+EMERGENCY!                     ­URGENTE!
+CALLING                        LLAMANDO
+DELTA TEAM                     EQUIPO
+                               DELTA
+
+
+DELTA 1 READY!                 ­DELTA 1 LISTO!
+I'LL ENTER                     ENTRANDO AL
+BUILDING A                     EDIFICIO A
+
+
+DELTA 2 READY!                 ­DELTA 2 LISTA!
+I'LL ENTER                     ENTRANDO AL
+BUILDING B                     EDIFICIO B
+
+
+GAME OVERFIN DE JUEGOINFECTION INFECCION
+
+
+ DISTRIBUTED BY                DISTRIBUIDO POR
+
+

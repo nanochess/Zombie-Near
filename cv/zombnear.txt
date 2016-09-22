@@ -1,0 +1,146 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Jul/11/2013
+
+Enhancements with respect to previous 32K Colecovision version:
+
+o Includes all new map 4 (another 101 rooms for a total of 404 rooms!)
+o By game two keys at each of the four maps can be in two different rooms, so there are 256 different games.
+o Music enhanced for Opcode Super Game Module.
+o Password system to start in advanced maps.
+o Two new tunes for bosses (one for simple bosses and other for big bosses)
+o Smoothest animation for bosses.
+o Final animation when winning game.
+o Alternate ending if two players at same time finish the game.
+o Story.
+o My logo updated.
+o Change in scientists colors for better TV contrast
+o Change in pause key (now is *) and turn on/off sound (now is #)
+o Change in players' speed to ease map exploration.
+o "Undocumented" trick pressing 1 in any keypad will dress players with black.
+
+>>>>> The following information is only for BETA TESTING <<<<<
+
+The game includes a programmer's key.
+
+Before main title screen appears, press right button of
+controller 1 plus one of the following keys:
+
+  7  -  Shows all 64x64 portraits. Press reset after
+  8  -  Shows all images with intro. Press reset after
+  1  -  Activate debugging (the screen will remain black until
+        you depress the key). Now inside the game, press key
+        from controller 1:
+
+        2 - Reloads energy.
+        3 - Gets key.
+        7 - Goes to next map, it doesn't change music.
+        9 - Goes to next floor, it has bugs when getting
+            out from boss' room, and it can "hang" if player
+            gets blocked. It was only used to check right
+            compression of rooms.
+        5 - Victory, goes without story to final sequence.
+            (simple for one player, romantic for two players).
+
+Passwords shown are the following (use in title screen):
+
+  6731 - Goes to map 2, first player
+  6732 - Goes to map 2, second player
+  6733 - Goes to map 2, both players
+  3921 - Goes to map 3, first player
+  3922 - Goes to map 3, second player
+  3923 - Goes to map 3, both players
+  8451 - Goes to map 4, first player
+  8452 - Goes to map 4, second player
+  8453 - Goes to map 4, both players
+
+>>>> End of betatesting information <<<<
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                          ZOMBIE NEAR user's manual
+
+                  (c) Copyright 2011-2013 Oscar Toledo G.
+                             All rights reserved.
+
+                          http://www.nanochess.org/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided 'as-is', without any express or implied
+  warranty. In no event will the author be held liable for any damages
+  or loss arising from the use of this software.
+
+  It is prohibited to modify, decompile, disassemble or reverse engineer
+  this software.
+
+  All trademarks are property of their respective owners.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUIREMENTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Hardware:
+
+  o Colecovision console with 1K of base RAM and 16K of video RAM.
+  o Game will play enhanced music if used with Opcode Super Game Module.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  There are rumors about zombie bosses waiting to crush you!
+
+  Every player is controlled by respective controller pad, buttons 1 and 2
+  shoot.
+
+  Key '*' in both controllers toggles pause.
+  Key '#' in both controllers toggles sound.
+
+  Because of game size after reaching a milestone, it will be visualized a
+  4-digit password that allows player or players to continue game from that
+  point, so be ready to take note!
+
+  The password can be entered at title screen (caveat: score will be reset
+  to zero)
+
+  Wait in title screen to see story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  DISTRIBUTION
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This version of ZOMBIE NEAR is for exclusive distribution by
+  Collectorvision.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  ANIMATION:
+  PROGRAMMING:
+  GRAPHICS AND LEVEL DESIGN:
+  SOUND AND MUSIC:
+  COVER DESIGN:
+  MANUAL DESIGN:
+    Oscar Toledo G.
+
+  ADDITIONAL MUSIC AND COLLABORATION:
+    Adán Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Jul/11/2013
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

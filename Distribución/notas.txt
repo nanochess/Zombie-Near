@@ -1,0 +1,32 @@
+Zombie Near. Carpeta de distribución.
+O.T.G. 26-ene-2011
+O.T.G. 21-feb-2011
+
+Zombie_Near_0.zip    Enviado a MSXdev'10 el 26 de enero del 2011.
+                     Tiene un bug en el final (sprite bicolor desfasado)
+                     Se puede atrapar a jefe si el jugador se pone arriba o abajo y hasta la izq.
+
+Zombie_Near_1.zip    Enviado a MSXdev'10 el 28 de enero del 2011.
+                    
+Zombie_Near.zip      Incorpora algunas mejoras extras.
+                     * Se remueve una línea invisible de historia en español.
+                     * Se ajustan algunos pisos del mapa 1, eran imposibles.
+                     * Se hacen más difíciles algunos corredores en los mapas 2 y 3.
+                     * Ya se escucha el berrido del monstruo y se hace otro berrido para la chica.
+                     * Ya se escucha mejor el ritmo en la melodía principal.
+                     * Se escucha mejor el bajo en melodías de acorde.
+			   * Nuevo efecto de sonido al perder una vida.
+                     * Retardo de presentación incrementado a 12 segundos.
+                     * Si se ha ganado el juego al oprimir F5 muestra fotos de los desarrolladores.
+                     * Las balas matan a los científicos.
+                     * Disparar a un armario hace que se abra/cierre.
+                     * Disparar a una consola la hace encenderse/apagarse.
+                     * Cuando el jugador muere pone un esqueletito.
+                     * Explosiones de jefes en colores diferentes.
+                     * Ajuste en detección choque de bala con muro.
+                     * La presentación ahora se abre más suavemente.
+                     * El truco OSCURO pone de rojo obscuro a la chica.
+                     * Paleta mejorada para MSX2.
+
+
+

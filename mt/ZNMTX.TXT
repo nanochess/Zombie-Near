@@ -1,0 +1,157 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+      ZOMBIE NEAR user's manual
+
+   (c) Copyright 2011 Oscar Toledo G.
+         All rights reserved.
+
+      http://www.nanochess.org/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+ This software is provided 'as-is',
+ without any express or implied
+ warranty. In no event will the author
+ be held liable for any damages or loss
+ arising from the use of this software.
+
+ It is prohibited to modify, decompile,
+ disassemble or reverse engineer this
+ software.
+
+ All trademarks are property of their
+ respective owners.
+
+ Following text applies to Pletter-0.5c
+ decompressor:
+  
+  Pletter v0.5b -
+  XL2S Entertainment 2008
+  Copyright (c) 2002-2003 Team Bomba
+
+   Permission is hereby granted, free
+   of charge, to any person obtaining a
+   copy of this software and associated
+   documentation files(the "Software"),
+   to deal in the Software without
+   restriction, including without
+   limitation the rights to use, copy,
+   modify, merge, publish, distribute,
+   sublicense,and/or sell copies of the
+   Software, and to permit persons to
+   whom the Software is furnished to do
+   so, subject to the following
+   conditions:
+
+    The above copyright notice and this
+    permission notice shall be included
+    in all copies or substantial
+    portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS",
+    WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT
+    NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A
+    PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE
+    LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN
+    ACTION OF CONTRACT, TORT OR
+    OTHERWISE, ARISING FROM, OUT OF OR
+    IN CONNECTION WITH THE SOFTWARE OR
+    THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUIREMENTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Hardware:
+
+  o Memotech MTX-512 with 64K of base
+    RAM and 16K of video RAM.
+
+  Also can be used with an emulator:
+
+  o MEMU, available at
+   http://www.nyangau.org/memu/memu.zip
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for
+  your life inside laboratories filled
+  with zombies with a taste for your
+  flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more
+  floors of the laboratory, take life
+  packs to recover your energy and save
+  some scientists for extra points.
+
+  There are rumors about zombie bosses
+  waiting to crush you!
+
+  Player 1 is controlled with arrow
+  keys and Home to shoot, also you
+  can use right joystick.
+
+  Player 2 is controlled with ZCBM+Y
+  keys and Space to shoot, also you
+  can use left joystick.
+
+  Wait in title screen to see story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  DISTRIBUTION
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR is freeware and can be
+  distributed freely as long as:
+
+    o It is not modified
+    o This file is included in the
+      archive
+    o It is not part of a commercial
+      product
+
+  For other types of distribution
+  please contact me through my site
+  http://www.nanochess.org/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  ANIMATION:
+  PROGRAMMING:
+  GRAPHICS AND LEVEL DESIGN:
+  SOUND AND MUSIC:
+  COVER DESIGN:
+  MANUAL DESIGN:
+    Oscar Toledo G.
+
+  SPECIAL HELP FROM:
+    Adan Toledo G. (Main music and
+    plant drawing)
+    Claus Bækkel (tests in Memotech,
+    controller and COM file
+    suggestions)
+
+  BETA TESTERS:
+    Oscar Toledo G.
+    Adan Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Mar/27/2015
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

@@ -1,0 +1,37 @@
+Zombie Near. (c) Copyright 2011 Oscar Toledo G.
+http://www.nanochess.org
+
+Source code release.
+
+LICENSE:
+
+  This software is provided as-is, in no case the author should be liable for
+  any damage arising from this software directly or indirectly.
+
+  I'm thereby giving permission to integrate this software or parts of
+  it for commercial or non-commercial use. A mention of my name and website
+  would be appreciated.
+
+DESCRIPTION:
+
+Full development history is included (YYYYMMDD folders)
+
+Zombie Near for MSX in main folder.
+   Distribucion\Zombie_Near.zip is the latest MSXdev version
+   Cartucho\Zombnear.zip is the latest cartridge version
+
+Zombie Near for Colecovision in 'cv' folder.
+   cv\Cartucho\zombnear_cv4.zip is the latest cartridge 32K version
+   cv\Cartucho\zombnear_megacart_v2.zip is a revamped unreleased version for Megacart
+
+Zombie Near for Memotech in 'mt' folder. (also Tatung Einstein, not tested)
+   mt\zombie_near_mtx.zip is the latest one.
+
+Zombie Near for Spectravideo in 'SVI' folder.
+   SVI\zombie_near_svi.zip is the latest one.
+
+Unfinished and early alphas in 'Atari', 'c64' and 'zx' folders.
+
+There are some GW-BASIC programs there (BAS extension) that can be used with
+gwbasic.exe (available elsewhere in the net)
+

@@ -1,0 +1,114 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                           Z O M B I E   N E A R
+
+                           A game for Spectravideo
+                   (c) Copyright 2012-2015 Oscar Toledo G.
+                             All rights reserved.
+
+                          http://www.nanochess.org/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided 'as-is', without any express or implied
+  warranty. In no event will the author be held liable for any damages
+  or loss arising from the use of this software.
+
+  It is prohibited to modify, decompile, disassemble or reverse engineer
+  this software.
+
+  All trademarks are property of their respective owners.
+
+  The following text applies to Pletter-0.5c decompressor:
+  
+    Pletter v0.5c - XL2S Entertainment 2008
+    Copyright (c) 2002-2003 Team Bomba
+
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this software and associated documentation files (the
+    "Software"), to deal in the Software without restriction, including
+    without limitation the rights to use, copy, modify, merge, publish,
+    distribute, sublicense, and/or sell copies of the Software, and to
+    permit persons to whom the Software is furnished to do so, subject to
+    the following conditions:
+
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+    CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUIREMENTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Hardware:
+
+  o A Spectravideo compatible computer
+  o 16K of base RAM
+  o 16K of VRAM
+
+  Also can be used with an emulator:
+
+  o BlueMSX v2.8.2, available at http://www.bluemsx.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  There are rumors about zombie bosses waiting to crush you!
+
+  Player 1 is controlled with arrow keys and space to shoot or joystick 1.
+
+  Player 2 is controller with WASD keys and Shift to shoot or joystick 2.
+
+  Wait in title screen to see story.
+
+  At bootup keep pressed F1 for NTSC mode, by default the game runs in PAL
+  mode.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  DISTRIBUTION 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This version of ZOMBIE NEAR is exclusively for distribution on
+  Dmitry Pugachev cartridges.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  ANIMATION:
+  PROGRAMMING:
+  GRAPHICS AND LEVEL DESIGN:
+  SOUND AND MUSIC:
+  COVER DESIGN:
+  MANUAL DESIGN:
+    Oscar Toledo G.
+
+  SPECIAL HELP FROM:
+    Adan Toledo G. (Main music and
+    plant drawing)
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Jan/26/2015
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

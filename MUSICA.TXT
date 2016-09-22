@@ -1,0 +1,161 @@
+10 ' Minisecuenciador. por Oscar Toledo G. 12-ene-2011
+20 DEFINT A-Z
+30 DIM N(60)
+40 N(0)=30000
+50 FOR A=1 TO 60
+60 READ N(A)
+70 NEXT A
+80 FOR A=1 TO 7
+90 READ C(A)
+100 NEXT A
+110 PRINT "1- Esperando al monstruo"
+120 PRINT "2- Triunfo"
+130 PRINT "3- Fracaso"
+140 PRINT "4- Avance"
+150 PRINT "5- Batalla"
+160 PRINT "6- Final"
+170 PRINT "7- Historia"
+180 PRINT "8- General"
+190 PRINT "9- Generar archivo"
+200 INPUT M
+210 IF M=1 THEN RESTORE 950
+220 IF M=2 THEN RESTORE 990
+230 IF M=3 THEN RESTORE 1030
+240 IF M=4 THEN RESTORE 1070
+250 IF M=5 THEN RESTORE 1110
+260 IF M=6 THEN RESTORE 1190
+270 IF M=7 THEN RESTORE 1230
+280 IF M=8 THEN RESTORE 1370
+290 IF M<>9 THEN 490
+300 OPEN "musica.asm" FOR OUTPUT AS #1
+310 PRINT #1,"        ;"
+320 PRINT #1,"        ; M£sica para Zombie Slab"
+330 PRINT #1,"        ;"
+340 PRINT #1,"        ; por Oscar Toledo Guti‚rrez"
+350 PRINT #1,"        ; y Ad n Toledo Guti‚rrez (tema principal)"
+360 PRINT #1,"        ;"
+370 PRINT #1,"        ; (c) Copyright 2011 Oscar Toledo Guti‚rrez"
+380 PRINT #1,"        ;                    Ad n Toledo Guti‚rrez"
+390 PRINT #1,"        ;"
+400 PRINT #1,"        ; Creaci¢n: 13-ene-2011. Generado autom ticamente"
+410 PRINT #1,"        ;"
+420 PRINT #1,""
+430 PRINT #1,"        ; Tabla de notas"
+440 PRINT #1,"tabla_notas:"
+450 FOR A=0 TO 60
+460 PRINT #1,"        dw";INT(111860.8/N(A))
+470 NEXT
+480 FOR MU=1 TO 8
+490 READ G$,H$
+500 IF M=9 THEN PRINT #1,"":PRINT #1,"        ";G$:PRINT #1,H$
+510 READ T
+520 READ D(2)
+530 READ D(3)
+540 READ D(4)
+550 IF M=9 THEN PRINT #1,"        db ";T;",";D(2);",";D(3);",";D(4)
+560 TB=T/2
+570 IF D(1)=0 AND D(2)=0 AND D(3)=0 THEN TB=T
+580 R=0
+590 READ A$
+600 IF A$<>"" THEN GOTO 660
+610 IF M<>9 THEN 660
+620 PRINT #1,"        db -1"
+630 NEXT MU
+640 CLOSE #1
+650 END
+660 IF A$="-" THEN B=0:GOTO 700
+670 B=C(ASC(A$)-96)
+680 B=B+(ASC(MID$(A$,2))-50)*12+1
+690 IF MID$(A$,3)="#" THEN B=B+1
+700 IF B<>0 THEN E=B-12
+710 IF M=9 THEN PRINT #1,"        db";B:GOTO 870
+720 FOR C=1 TO 4
+730 IF D(C)=-100 THEN B=0 ELSE B=B+D(C)
+740 D=T-2
+750 SOUND N(B),.2:G=G+1:IF G=TB THEN F=12-F:G=0
+760 D=D-1:IF D=0 THEN 840
+770 SOUND N(E-F),.2:G=G+1:IF G=TB THEN F=12-F:G=0
+780 D=D-1:IF D=0 THEN 840
+790 SOUND N(B),.2:G=G+1:IF G=TB THEN F=12-F:G=0
+800 D=D-1:IF D=0 THEN 840
+810 SOUND N(E-F),.2:G=G+1:IF G=TB THEN F=12-F:G=0
+820 D=D-1:IF D=0 THEN 840
+830 GOTO 750
+840 SOUND 30000,.2:G=G+1:IF G=TB THEN F=12-F:G=0
+850 SOUND N(E-F),.2:G=G+1:IF G=TB THEN F=12-F:G=0
+860 NEXT C
+870 R=R+1
+880 GOTO 590
+890 DATA 65,69,73,78,82,87,93,98,104,110,117,124
+900 DATA 131,139,147,156,165,175,186,197,208,221,234,248
+910 DATA 262,278,294,312,331,351,372,394,417,442,468,497
+920 DATA 525,556,589,624,662,702,744,788,835,884,936,994
+930 DATA 1050,1112,1178,1248,1324,1404,1488,1576,1670,1768,1872,1988
+940 DATA 9,11,0,2,4,5,7
+950 DATA "; Esperando al monstruo","melodia_esperando:"
+960 DATA 16,2,1,3
+970 DATA c4,c4,c4,g4,g4,g4,f4,f4,e4,d4,c4
+980 DATA ""
+990 DATA "; Triunfo","melodia_triunfo:"
+1000 DATA 10,5,4,-4
+1010 DATA c4,e4,g4,c5,e5,g5
+1020 DATA ""
+1030 DATA "; Fracaso","melodia_fracaso:"
+1040 DATA 20,2,2,2
+1050 DATA g4,e4,c4
+1060 DATA ""
+1070 DATA "; Avance","melodia_avance:"
+1080 DATA 10,4,3,-3
+1090 DATA c4,f4,d4,g4,e4
+1100 DATA ""
+1110 DATA "; Batalla","melodia_batalla:"
+1120 DATA 5,12,-12,12
+1130 DATA c4,a4#,d4#,e4,f4#,f4,e4,d4#
+1140 DATA d4,c5,f4,f4#,g4#,g4,f4#,f4
+1150 DATA c4,a4,d4,g4,f4,d4,g4,c4
+1160 DATA e4,c4#,f4#,b4,g4,e4,a4,d4
+1170 DATA c4,f4,e4,a4
+1180 DATA ""
+1190 DATA "; Final","melodia_final:"
+1200 DATA 20,4,3,-3
+1210 DATA c4,f4,g4,a4,e5,c5,a4
+1220 DATA ""
+1230 DATA "; Historia","melodia_historia:"
+1240 DATA 8,0,0,0
+1250 DATA g4,c5,e5,c5,g4,c5,e5,c5
+1260 DATA g4,c5,d5#,c5,g4,c5,d5#,c5
+1270 DATA g4,b4,d5,b4,g4,b4,d5,b4
+1280 DATA g4,a4#,d5,a4#,g4,a4#,d5,a4#
+1290 DATA g4,b4,d5,b4,g4,b4,d5,b4
+1300 DATA g4,a4#,d5,a4#,g4,a4#,d5,a4#
+1310 DATA f4#,a4,d5#,a4,f4#,a4,d5#,a4
+1320 DATA a4,c5#,e5,c5#,a4,c5#,e5,c5#
+1330 DATA a4,c5,f5,c5,a4,c5,f5,c5
+1340 DATA g4#,c5,f5,c5,g4#,c5,f5,c5
+1350 DATA c4,e4,g4,c5
+1360 DATA ""
+1370 DATA "; Tema principal","melodia_principal:"
+1380 DATA 6,0,0,0
+1390 DATA c5,g5,-,-,-,-,-,-
+1400 DATA a4#,g5,-,-,-,-,-,-
+1410 DATA c5,g5,c6,-,-,-,-,-
+1420 DATA a4#,g5,c6,-,-,-,-,-
+1430 DATA c5,g5,f5#,g5,g5,-,-,-
+1440 DATA b4,g5,f5#,g5,g5,-,-,-
+1450 DATA a4#,g5,f5#,g5,g5,-,-,-
+1460 DATA c5,g5,f5#,g5,g5,-,-,-
+1470 DATA b4,g5,f5#,g5,g5,-,-,-
+1480 DATA a4#,g5,f5#,g5,g5,-,-,-
+1490 DATA c5,g5,f5#,g5,a5#,a5,g5#,g5
+1500 DATA f5#,g5,g5,-,a4,g5,f5#,g5
+1510 DATA a5#,a5,g5#,g5,f5#,g5,g5,-
+1520 DATA c5,c5,c5,c5,g5,g5,g5,g5
+1530 DATA f5#,f5#,f5#,f5#,-,-,-,-
+1540 DATA c5,c5,c5,c5,g5,g5,g5,g5
+1550 DATA g5#,g5#,g5#,g5#,-,-,-,-
+1560 DATA c5,f5#,g5,g5#,-,-,-,-
+1570 DATA c6,g5#,g5,f5#,-,-,-,-
+1580 DATA c5,f5#,g5,-,-,-,-,-
+1590 DATA c6,g5,f5#,-,-,-,-,-
+1600 DATA ""
+

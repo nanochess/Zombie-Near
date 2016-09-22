@@ -1,0 +1,64 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                          ZOMBIE NEAR user's manual
+
+                            a freeware MSX game.
+                      (c) Copyright 2011 Oscar Toledo G.
+                         http://nanochess.110mb.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided as-is, in no case will the
+  author be liable for any damage or problem caused by
+  use of this software.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  Rumors are that zombie bosses are waiting to crush you!
+
+  Player 1 controls are with cursor keys and SPACE to shoot.
+  Player 2 controls are with joystick 1, both buttons shoot.
+
+  If there is only one player then you can use keys or joystick at your
+  choice.
+
+  Other keys:
+    F1 - Pause, press again to get out from pause
+
+  Wait while title appears to see the full story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  GRAPHICS AND LEVEL DESIGN:
+  ANIMATION:
+  SOUND AND MUSIC:
+  PROGRAMMING:
+    Oscar Toledo G.
+
+  MUSIC (MAIN THEME):
+    Ad n Toledo G.
+
+  BETA TESTERS:
+    Oscar Toledo G.
+    Ad n Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Jan/14/2011
+

@@ -1,0 +1,21 @@
+25-ene-2011 (por enviar)
+msxdev@msxblue.com
+Registering a game for MSXdev10
+To whomever correspond.
+
+Hi, I'm registering a project for MSXdev10:
+
+  Name of game: Zombie Near
+  Game size/RAM: 128KB / 8KB
+  Game genre: Action / Maze
+  Name of author: Óscar Toledo Gutiérrez
+  Contact e-mail: biyubi@gmail.com
+
+Find annex the ZIP file with ROM, PDF manual and PNG
+cartridge sticker, could someone test it on a real MSX?
+I would prefer publication until Friday Jan/28.
+
+Please confirm receipt.
+
+Regards,
+Óscar Toledo G.

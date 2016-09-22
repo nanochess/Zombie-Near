@@ -1,0 +1,65 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                          ZOMBIE WARS user's manual
+
+                            a freeware MSX game.
+                      (c) Copyright 2011 Oscar Toledo G.
+                         http://nanochess.110mb.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided as-is, in no case will the
+  author be liable for any damage or problem caused by
+  use of this software.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE WARS, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  Rumors are that zombie bosses are waiting to crush you!
+
+  Player 1 controls are with cursor keys and SPACE to shoot.
+  Player 2 controls are with joystick 1, both buttons shoot.
+
+  Other keys:
+    F1 - Pause
+
+  Wait while title appears to see the full story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE WARS
+
+  GAME CONCEPT:
+    Oscar Toledo G.
+
+  STORY AND CHARACTERS:
+    Oscar Toledo G.
+
+  GRAPHICS AND LEVEL DESIGN:
+    Oscar Toledo G.
+
+  ANIMATION:
+    Oscar Toledo G.
+
+  SOUND AND MUSIC:
+    Oscar Toledo G.
+
+  MAIN TITLE DESIGN:
+    Ad n Toledo G.
+
+  BETA TESTER:
+    Ad n Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-

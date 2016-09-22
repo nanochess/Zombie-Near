@@ -1,0 +1,88 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+                          ZOMBIE NEAR user's manual
+
+                             a freeware MSX game.
+                      (c) Copyright 2011 Oscar Toledo G.
+                         http://nanochess.110mb.com/
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 1 <<  LICENSE
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  This software is provided as-is, in no case will the
+  author be liable for any damage or problem caused by
+  use of this software.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 2 <<  REQUIREMENTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  o A MSX-compatible computer (MSX, MSX2, MSX2+ or MSX Turbo-R)
+  o 8K of base RAM
+  o 16K of VRAM
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 3 <<  THE GAME
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  Welcome to ZOMBIE NEAR, fight for your life inside laboratories filled
+  with zombies with a taste for your flesh, you have unlimited ammo for
+  your handgun.
+
+  Find the keys to open access to more floors of the laboratory, take life
+  packs to recover your energy and save some scientists for extra points.
+
+  There are rumors about zombie bosses waiting to crush you!
+
+  In one-player mode you can use cursor keys and SPACE to shoot, or use
+  joystick 1, both buttons shoot.
+
+  In two-players mode, player 1 controls are with cursor keys and SPACE to
+  shoot, and player 2 controls are with joystick 1, both buttons shoot,
+  player 2 also can use WASD-keys combination plus Tab for shooting.
+
+  Other keys:
+    F1 - Pause, press again to get out from pause
+    F2 - Toggle sound/music.
+
+  Wait while title screen appears to see the starting story.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 4 <<  RANDOM THOUGHTS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  I've plans to release source code of this game, composed from more than
+  13,000 lines of assembly source code!, I'm thinking on a scheme of
+  donations to reach a fixed sum, check my site for my final decision
+  http://nanochess.110mb.com/
+
+  By the way, if you make a batch of cartridges of this game, please send
+  me one or two cartridges and also one dollar per cartridge, if you make
+  1,000 cartridges you send me USD$1000 :), not an obligation, but it is
+  how I think nice people should reward my hard work if they do business.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  >> 5 <<  CREDITS
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ZOMBIE NEAR
+
+  GAME CONCEPT:
+  STORY AND CHARACTERS:
+  ANIMATION:
+  PROGRAMMING:
+  GRAPHICS AND LEVEL DESIGN:
+  SOUND AND MUSIC:
+    Oscar Toledo G.
+
+  SPECIAL HELP FROM:
+    Ad n Toledo G. (Main music and plant drawing)
+
+  BETA TESTERS:
+    Oscar Toledo G.
+    Ad n Toledo G.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Last updated: Jan/19/2011
+
